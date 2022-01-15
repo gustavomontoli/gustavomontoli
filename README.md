@@ -21,7 +21,7 @@
 <div>
   <a href="https://github.com/gustavomontoli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomontoli&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomontoli&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomontoli&layout=compact&langs_count=16&theme=bear"/>
 </div>
   
 <div style="display: inline_block"><br>
