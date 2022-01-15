@@ -41,7 +41,7 @@
   <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5561982925500" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/gustavomontoli/gustavomontoli/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gustavomontoli/gustavomontoli/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 **gustavomontoli/gustavomontoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
