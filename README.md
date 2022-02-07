@@ -1,10 +1,10 @@
 ### Hello! Olá! 👋😀
 
-👨‍🎓 I'm Gustavo Monteiro. I´m currently finishing my Electronics Engineering major´s degree at the University of Brasilia.
+👨‍🎓 I'm Gustavo. I´m an Electronics Engineering student at the University of Brasília (UnB).
 
-👔I was an engineering intern at a multinational network and telecommunications equipment company called Huawei for 2 years. I also did an internship in the area of ​​control and automation at the Brazilian Institute for the Environment and Natural Resources (IBAMA).  I was part of a ​​software engineering scientific initiation project at the university, also worked as a volunteer in scientific events and was part of an aerial microvehicle development competition team as leader in Electronics, which led me to participate in an international competition in Spain, in 2019. I am also part of a research study group in ​​motion analysis using systems based on neural networks.
+👔Professional goal: to develop a career in Data Analysis, Machine Learning and Artificial Intelligence (AI). Interned at the telecommunications multinational Huawei for a period of 2 years focused on engineering; I also had the opportunity to do an internship at the Brazilian Institute for the Environment and Natural Resources (IBAMA), in the area of ​​control and automation. I participated in a scientific initiation project in software engineering at the university and volunteered at scientific events. I joined a micro-air vehicle development competition team as a leader in Electronics, which allowed me to compete internationally, in Spain, in 2019. In addition, I am part of a research study group on motion analysis using systems based on neural networks.
 
-💻I have experience with projects in Python, data management language like SQL, data organization and visualization tools like Excel and PowerBI and currently studying tools like Tableau and R Studio, as well as R language. I've had contact with and also study programming languages ​​like C, Python, JavaScript and I develop some personal projects with front-end languages ​​like HTML, CSS and ReactJs. I have experience with numerical analysis software such as MATLAB and SciLab. I am an advanced English speaker, listener and writer, and also have some basic knowledge in Spanish. 
+💻 Technical expertise: Python; SQL; Excel & PowerBI; Tableau; R Studio & R Language; C language; JavaScript; HTML; CSS; MATLAB; SciLab. Languages: Advanced English and Basic Spanish.
 
 🏁I'm looking for opportunities to start a career in the area of ​​data analysis, Machine Learning and AI.
 
