@@ -4,7 +4,7 @@
 
 👔Professional goal: to develop a career in Data Engineering and specialize in Machine Learning. Interned at the telecommunications multinational Huawei for a period of 2 years focused on engineering; I also had the opportunity to do an internship at the Brazilian Institute for the Environment and Natural Resources (IBAMA), in the area of ​​control and automation. I participated in a scientific initiation project in software engineering at the university and volunteered at scientific events. I joined a micro-air vehicle development competition team as a leader in Electronics, which allowed me to compete internationally, in Spain, in 2019. In addition, I am part of a research study group on motion analysis using systems based on neural networks.
 
-💻 Technical expertise: Python; SQL; Excel & PowerBI; C language; JavaScript; HTML; CSS; MATLAB; SciLab. Languages: Advanced English and Basic Spanish.
+💻 Technical expertise: Python; SQL; Excel & PowerBI; C language; JavaScript; React.Js; Next.Js; HTML; CSS; MATLAB; Languages: Advanced English and Basic Spanish.
 
 🏁I'm looking for opportunities to start a career in the area of ​​data analysis, Machine Learning and AI.
 
