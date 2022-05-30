@@ -1,20 +1,12 @@
 ### Hello! Olá! 👋😀
 
-👨‍🎓 I'm Gustavo. I´m an Electronics Engineering student at the University of Brasília (UnB).
+👨‍🎓 I'm Gustavo. I´m an Electronics Engineering fresh gradute from the University of Brasília (UnB).
 
 👔 Interned at the telecommunications multinational Huawei for a period of 2 years focused on engineering; I also had the opportunity to do an internship at the Brazilian Institute for the Environment and Natural Resources (IBAMA), in the area of ​​control and automation. I participated in a scientific initiation project in software engineering at the university and volunteered at scientific events. I joined a micro-air vehicle development competition team as a leader in Electronics, which allowed me to compete internationally, in Spain, in 2019. In addition, I am part of a research study group on motion analysis using systems based on neural networks.
 
-💻 Technical expertise: Python; SQL; Excel & PowerBI; C language; JavaScript; React.Js; Next.Js; HTML; CSS; MATLAB; Languages: Advanced English and Basic Spanish.
+💻 Technical expertise: Python; Excel & PowerBI; C/C++; React.Js/Next.Js/Node.js; MATLAB; Languages: Advanced English speaking/reading and Basic Spanish speaking/reading.
 
 👉My portfolio can be found righ here at: https://github.com/gustavomontoli.
-
-🕺I am also a dancer and love working out or going for a run at the park.
-
-🎭I love anything related to culture and arts.
-
-🍟I am a big fan of going out to eat with my friends or family.
-
-🌎Travelling and discovering new places is one of my biggest passions.
 
 <div>
   <a href="https://github.com/gustavomontoli">
